@@ -1,6 +1,6 @@
 # World-Wide-Wander
 
-World Wide Wander is a travel agent that offers many different itineraries around the globe. WWW aimed to give the best travel experience for everyone. Customer can choose package and personalized the travel destination by their own.
+World Wide Wander is a travel agent that offers many different itineraries around the globe. WWW aimed to give the best travel experience for everyone. Customer can choose a travel package and personalized the destination on their own!
 
 Travel Packages
 - Europe Package
@@ -11,6 +11,7 @@ Travel Packages
 - Southeast Asia
 - Australia & New Zealand
 
-Tech used ;
+__This project was made in order to submit the mini coding project from RevoU's Software Engineering Fundamental Course-5th May batch__
+__Tech used ;
 HTML, CSS, JavaScript
-GitHub pages
+GitHub pages__
