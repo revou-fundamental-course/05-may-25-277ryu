@@ -1,0 +1,92 @@
+/* For debugging purposes only */
+/* * {
+    border: 1px solid;
+} */
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background:rgb(255, 233, 218);
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f8f83d;
+    margin: 0;
+    text-align: center;
+}
+
+.main-logo {
+    width: 50px;
+    height: 50px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+/* Nav Style */
+nav {
+    display: flex;
+    
+}
+
+nav a {
+    border: 1px solid;
+    color: rgb(91, 41, 0);
+    text-decoration: none;
+    padding: 9px;
+    background-color: rgb(255, 233, 218);
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    color:rgb(49, 49, 49);
+
+    
+}
+
+.banner-form {
+    display: flex;
+    gap: 32px;
+}
+
+.banner-container {
+    height: 250px;
+    width: 100%;
+}
+
+.banner-img {
+    height: 250px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.banner-form form {
+    border: 1px solid;
+    height: 250px;
+    width: 100%;
+}
+
+.sub-content {
+    height: 70px;
+    align-content: center;
+}
+
+footer {
+    text-align: center;
+    color: black;
+}
+
+
+/* Responsive Design */
+@media only screen and (max-width: 480px) {
+    .banner-form {
+        flex-direction: column;
+    }
+}
